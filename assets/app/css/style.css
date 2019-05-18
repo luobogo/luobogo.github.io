@@ -2522,9 +2522,9 @@ Blog Details CSS
 .blog-details-area .blog-details .article-img .date {
     position: absolute;
     bottom: 15px;
-    width: 50px;
+    width: 90px;
     right: 15px;
-    height: 50px;
+    height: 30px;
     text-align: center;
     font-size: 16px;
     font-style: italic;
@@ -2532,7 +2532,7 @@ Blog Details CSS
     color: #ffffff;
     border-radius: 5px;
     /*padding-top: 18px;*/
-    /*line-height: 30px;*/
+    line-height: 30px;
 }
 
 .blog-details-area .blog-details .article-content {

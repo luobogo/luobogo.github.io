@@ -313,12 +313,12 @@
     margin-top: 25px;
   }
   .blog-details-area .blog-details .article-img .date {
-    width: 60px;
-    height: 60px;
+    width: 90px;
+    height: 30px;
     font-size: 16px;
     padding-top: 5px;
     /*padding-top: 16px;*/
-    /*line-height: 23px;*/
+    line-height: 30px;
   }
   .blog-details-area .blog-details .article-content {
     padding: 30px 20px;
